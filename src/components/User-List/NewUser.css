@@ -1,0 +1,11 @@
+.list-item li{
+    list-style: none;
+    font-family: monospace;
+    font-size:x-large;
+    padding: 10px;
+    min-width: 450px;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    
+}
