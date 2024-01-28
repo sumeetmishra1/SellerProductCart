@@ -1,0 +1,25 @@
+.list-item{
+    list-style: none;
+    font-size: large;
+    width: 80%;
+}
+li{
+  width: 100%;
+  font-family: cursive;
+  word-spacing: 50px;
+  font-size: larger;
+  background-color: darkgray;
+  padding: 4px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+li button{
+    font-family:'Segoe UI';
+    border-radius: 6px;
+    font-size: large;
+    padding: 2px;
+    background-color: rgb(255, 0, 0);
+    color: beige;
+    padding: 2px 6px;
+    border: 1px solid blue;
+}

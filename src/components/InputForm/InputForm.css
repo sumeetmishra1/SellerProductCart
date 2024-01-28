@@ -1,0 +1,25 @@
+form{
+    font-family: cursive;
+    padding: 20px 30px;
+    border-radius: 8px;
+    background-color: beige;
+}
+form input{
+    display: flex;
+    font-size:medium;
+    height: 30px;
+    width: 300px;
+    margin-bottom: 20px;
+    border: 2px solid rgb(144, 144, 238);
+    border-radius: 4px;
+}
+form button{
+    border-radius: 8px;
+    font-size: medium;
+    padding: 5px;
+    color:rgb(255, 255, 255);
+    background-color: rgb(97, 67, 246);
+}
+.isInvalid input{
+    border: 2px solid red;
+}
